@@ -1,6 +1,5 @@
-# Project Management
-# Data
-# Localisation
+# Data, Localisation
+# & Project Management
 
 ### WORK EXPERIENCE
 #### DRIVING GROWTH AT GoStudent GmbH, 2021  -  2023 | BERLIN, GERMANY
