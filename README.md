@@ -1,4 +1,6 @@
-# Project Management | Data | Localisation
+# Project Management
+# Data
+# Localisation
 
 ### WORK EXPERIENCE
 #### DRIVING GROWTH AT GoStudent GmbH, 2021  -  2023 | BERLIN, GERMANY
@@ -29,15 +31,15 @@ By equipping myself with skills in data modelling, machine learning, and data vi
 My academic background in Linguistics and Modern Language Studies has provided me with a solid foundation in data analysis, research, critical thinking and communication.
 
 ### SKILLS
-Project Management || Program Management || Product Management || Leadership || Strategic Planning || Data Analysis & Visualisation
-CAT tools || Python || SQL || Tableau || Innovation & Problem-solving || Multilingual Proficiency (English Native, Spanish C1, German B1)
+Project Management | Program Management | Product Management | Leadership | Strategic Planning | Data Analysis & Visualisation
+CAT tools | Python | SQL | Tableau | Innovation & Problem-solving | Multilingual Proficiency (English Native, Spanish C1, German B1)
 
 ### PROJECTS AND CAMPAIGNS
 #### GoStudent GmbH
-GoClass Product Launch || GoChat Product Launch || Lokalise Launch || Monday.com Launch || WebApp Product Launch
-Website Rebrand || Education Report || Family Testimonials || Black Friday Campaign || Mighty Wins Campaign || 
-Holidays Campaign || Language Learning Campaign || Summer Loving Campaign || Good Grades Flex Campaign
+GoClass Product Launch | GoChat Product Launch | Lokalise Launch | Monday.com Launch | WebApp Product Launch
+Website Rebrand | Education Report | Family Testimonials | Black Friday Campaign | Mighty Wins Campaign 
+Holidays Campaign | Language Learning Campaign | Summer Loving Campaign | Good Grades Flex Campaign
 
 #### Omio GmbH
-Hybrid Translation Requests Platform Launch || Brand Launch in North America  || Monthly Magazine
-Travel Out of the Ordinary Campaign || The Little Things Campaign
+Hybrid Translation Requests Platform Launch | Brand Launch in North America | Monthly Magazine
+Travel Out of the Ordinary Campaign | The Little Things Campaign
