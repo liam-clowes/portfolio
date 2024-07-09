@@ -46,5 +46,5 @@ Summer Loving Campaign | Good Grades Flex Campaign
 #### Omio GmbH
 Hybrid Translation Requests Platform Launch
 Brand Launch in North America | Monthly Magazine
-Travel Out of the Ordinary Campaign
+Travel Out of the Ordinary Campaign 
 The Little Things Campaign
