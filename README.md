@@ -3,7 +3,7 @@
 
 🎓 [WORK EXPERIENCE & EDUCTION](https://liam-clowes.github.io/work_edu)
 
-#### 🤹 SKILLS
+### 🤹 SKILLS
 
 #### DATA ANALYTICS
 SQL | PostgreSQL | Python | ETL & Data Pipelines | Data Analysis & Visualisation | Tableau | Plotly | Machine Learning
@@ -12,7 +12,7 @@ SQL | PostgreSQL | Python | ETL & Data Pipelines | Data Analysis & Visualisation
 Project Management | Program Management | Product Management | Leadership | Strategic Planning | CAT tools | GitHub | Innovation & Problem-solving | Multilingual Proficiency (English Native, Spanish C1, German B1)
 
 
-#### 🗂️ PROJECTS AND CAMPAIGNS
+### 🗂️ PROJECTS AND CAMPAIGNS
 #### 📚 GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
@@ -26,7 +26,7 @@ Summer Loving Campaign | [Good Grades Flex Campaign](https://liam-clowes.github.
 Brand Launch in North America | The Little Things Campaign | 
 Travel Out of the Ordinary Campaign
 
-#### 📝 TESTIMONIALS
+### 📝 TESTIMONIALS
 
 _“What sets Liam apart is his remarkable storytelling ability, effectively weaving together insights to drive meaningful impact for businesses. He applies strong organisational skills throughout his work, ensuring every stage of analysis is meticulously crafted and presented. Liam thrives in collaborative environments, valuing input from team members to deliver comprehensive results. Moreover, his critical thinking skills allow him to dissect problems from multiple angles, leading to innovative and insightful solutions.”_ - **Kim Stokes (GoStudent GmbH)**
 
