@@ -48,7 +48,7 @@ GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
 Education Report | Family Testimonials | Black Friday Campaign
 Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign
-Summer Loving Campaign | Good Grades Flex
+Summer Loving Campaign | Good Grades Flex Campaign
 
 
 
