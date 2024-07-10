@@ -1,5 +1,5 @@
 # Your Expert in Going Global 🌏
-## Data | Localisation | Project Management
+## Data 📊 | Localisation 🗣️ | Project Management 🧑‍💻
 
 #### TESTIMONIALS
 
