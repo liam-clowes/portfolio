@@ -16,7 +16,7 @@ Project Management | Program Management | Product Management | Leadership | Stra
 #### 📚 GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
-Education Report | [Family Testimonials](https://liam-clowes.github.io/gs_ft/) | Black Friday Campaign
+[Education Report](assets/GoStudent_Educational_Report_2021.pdf) | [Family Testimonials](https://liam-clowes.github.io/gs_ft/) | Black Friday Campaign
 Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign
 Summer Loving Campaign | [Good Grades Flex Campaign](https://liam-clowes.github.io/ggf/)
 
