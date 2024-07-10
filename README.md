@@ -9,13 +9,13 @@ _“Liam is hands-down one of the best PMs I have had the pleasure to collaborat
 
 [WORK EXPERIENCE & EDUCTION](https://liam-clowes.github.io/work_edu)
 
-## SKILLS
+### SKILLS
 Project Management | Program Management | Product Management
 Leadership | Strategic Planning | Data Analysis & Visualisation | CAT tools
 Python | SQL | Tableau | Innovation & Problem-solving
 Multilingual Proficiency (English Native, Spanish C1, German B1)
 
-## PROJECTS AND CAMPAIGNS 
+### PROJECTS AND CAMPAIGNS 
 #### GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
