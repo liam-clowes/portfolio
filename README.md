@@ -49,6 +49,8 @@ Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign
 Summer Loving Campaign | Good Grades Flex Campaign
 
 #### Omio GmbH
-Hybrid Translation Requests Platform Launch | Brand Launch in North America 
-Monthly Magazine | Travel Out of the Ordinary Campaign |
+Hybrid Translation Requests Platform Launch
+Brand Launch in North America 
+Monthly Magazine
+Travel Out of the Ordinary Campaign
 The Little Things Campaign
