@@ -52,7 +52,7 @@ Summer Loving Campaign | [Good Grades Flex Campaign](https://liam-clowes.github.
 
 #### Omio GmbH
 [Hybrid Translation Requests Platform Launch](https://liam-clowes.github.io/wc/)
-[The Window Seat Magazine](https://www.omio.com/window-seat/)
+| [The Window Seat Magazine](https://www.omio.com/window-seat/)
 Brand Launch in North America | Travel Out of the Ordinary Campaign | The Little Things Campaign
 
 
