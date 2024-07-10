@@ -42,7 +42,6 @@ Python | SQL | Tableau | Innovation & Problem-solving
 Multilingual Proficiency (English Native, Spanish C1, German B1)
 
 ## PROJECTS AND CAMPAIGNS 
-[Link to projects and campaigns](https://drive.google.com/drive/folders/1LgIVYG4ujrTSpbtnL3XSGxfXyPsVGYVR?usp=sharing)
 #### GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
