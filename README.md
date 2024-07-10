@@ -48,12 +48,36 @@ GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
 Education Report | Family Testimonials | Black Friday Campaign
 Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign
-Summer Loving Campaign | Good Grades Flex Campaign
+Summer Loving Campaign | 
 
+
+##### Good Grades Flex Campaign (English)
 <video width="320" height="240" controls loop=" " muted=" " autoplay=" ">
 <source src="https://github.com/liam-clowes/cv/raw/main/assets/EN_That's%20the%20feeling%20of%20better%20grades.mp4">
 </video>
 
+##### Good Grades Flex Campaign (German)
+<video width="320" height="240" controls loop=" " muted=" " autoplay=" ">
+<source src="https://github.com/liam-clowes/cv/raw/main/assets/DE_Das%20Gefu%CC%88hl%20von%20besseren%20Noten%20_%20GoStudent%20_%20%23GutesGefu%CC%88hl%20_%20%23Nachhilfe.mp4">
+</video>
+
+##### Good Grades Flex Campaign (Spanish)
+<video width="320" height="240" controls loop=" " muted=" " autoplay=" ">
+<source src="https://github.com/liam-clowes/cv/raw/main/assets/ES_Asi%CC%81%20se%20sienten%20al%20sacar%20buenas%20notas.mp4">
+</video>
+
+##### Good Grades Flex Campaign (Italian)
+<video width="320" height="240" controls loop=" " muted=" " autoplay=" ">
+<source src="https://github.com/liam-clowes/cv/raw/main/assets/IT_Cosi%CC%80%20ci%20si%20sente%20a%20prendere%20voti%20migliori!.mp4">
+</video>
+
+
 #### Omio GmbH
-Hybrid Translation Requests Platform Launch | Brand Launch in North America | Travel Out of the Ordinary Campaign | The Little Things Campaign | 
+Brand Launch in North America | Travel Out of the Ordinary Campaign | The Little Things Campaign | 
 [The Window Seat Magazine](https://www.omio.com/window-seat/)
+
+##### Hybrid Translation Requests Platform Launch
+<video width="320" height="240" controls loop=" " muted=" " autoplay=" ">
+<source src="https://github.com/liam-clowes/cv/raw/main/assets/WC_demo.mov">
+</video>
+
