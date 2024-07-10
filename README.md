@@ -4,20 +4,23 @@
 🎓 [WORK EXPERIENCE & EDUCTION](https://liam-clowes.github.io/work_edu)
 
 #### 🤹 SKILLS
-Project Management | Program Management | Product Management
-Leadership | Strategic Planning | Data Analysis & Visualisation | CAT tools
-Python | SQL | Tableau | Innovation & Problem-solving
-Multilingual Proficiency (English Native, Spanish C1, German B1)
+
+#### DATA ANALYTICS
+SQL | PostgreSQL | Python | ETL & Data Pipelines | Data Analysis & Visualisation | Tableau | Plotly | Machine Learning
+
+#### LOCALISATION & PROJECT MANAGEMENT
+Project Management | Program Management | Product Management | Leadership | Strategic Planning | CAT tools | GitHub | Innovation & Problem-solving | Multilingual Proficiency (English Native, Spanish C1, German B1)
+
 
 #### 🗂️ PROJECTS AND CAMPAIGNS
-##### 📚 GoStudent GmbH
+#### 📚 GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
 Education Report | [Family Testimonials](https://liam-clowes.github.io/gs_ft/) | Black Friday Campaign
 Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign
 Summer Loving Campaign | [Good Grades Flex Campaign](https://liam-clowes.github.io/ggf/)
 
-##### ✈️ Omio GmbH
+#### ✈️ Omio GmbH
 [Hybrid Translation Requests Platform Launch](https://liam-clowes.github.io/wc/)
 | [The Window Seat Magazine](https://www.omio.com/window-seat/)
 Brand Launch in North America | The Little Things Campaign | 
