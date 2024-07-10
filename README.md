@@ -5,7 +5,7 @@ _“What sets Liam apart is his remarkable storytelling ability, effectively wea
 
 _“Liam is hands-down one of the best PMs I have had the pleasure to collaborate with. From start to finish, he's on top of the workflow, with the foresight to spot potential issues down the line and the creative thinking to solve them. He's aware of what translators need to offer a quality service and goes out of his way to ensure they're in the best position to do so. Communication is friendly and thorough at all times, and Liam is always on hand to clarify doubts or support you to get the best result possible.”_ - **Lara Fasoli (FSL Language Solutions)**
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 #### DRIVING GROWTH at GoStudent GmbH, 2021  -  2023 | BERLIN, GERMANY
 As the Localisation Lead at GoStudent, I led data-driven initiatives to enhance user experience in 20+ markets. By introducing agile workflows and strategic leadership, I optimised processes and unified the brand voice, resulting in increased efficiency and reduced costs.
 - Developed comprehensive budget-forecasting framework and customised PO system to align with company OKRs and performance metrics, consequently increasing localisation buy-in.
@@ -26,20 +26,20 @@ In my premiere role as a Project Manager at TransPerfect, I oversaw multi-phase 
 - Improved daily operations through self-developed vendor on-boarding and training initiatives.
 - Ensured smooth and timely delivery of time-sensitive projects.
 
-### EDUCATION
+## EDUCATION
 #### Spiced Academy - Data Analytics Bootcamp, 2024 | BERLIN, GERMANY
 By equipping myself with skills in data modelling, machine learning, and data visualisation, I have prepared myself for the challenges of today's data-driven world, with data insights as a core focus.
 
 #### Victoria University of Wellington - Bachelor of Arts, 2012-2014 | WELLINGTON, NEW ZEALAND
 My academic background in Linguistics and Modern Language Studies has provided me with a solid foundation in data analysis, research, critical thinking and communication.
 
-### SKILLS
+## SKILLS
 Project Management | Program Management | Product Management
 Leadership | Strategic Planning | Data Analysis & Visualisation | CAT tools
 Python | SQL | Tableau | Innovation & Problem-solving
 Multilingual Proficiency (English Native, Spanish C1, German B1)
 
-### PROJECTS AND CAMPAIGNS 
+## PROJECTS AND CAMPAIGNS 
 [**Link to projects and campaigns**](https://drive.google.com/drive/folders/1LgIVYG4ujrTSpbtnL3XSGxfXyPsVGYVR?usp=sharing)
 #### GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
