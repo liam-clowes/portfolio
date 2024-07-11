@@ -16,14 +16,14 @@ Project Management | Program Management | Product Management | Leadership | Stra
 #### 📚 GoStudent GmbH
 GoClass Product Launch | GoChat Product Launch | Lokalise Launch
 Monday.com Launch | WebApp Product Launch | Website Rebrand
-[Education Report](https://github.com/liam-clowes/portfolio/blob/main/assets/GoStudent%20Educational%20Report%202021.pdf) | [Family Testimonials](https://liam-clowes.github.io/gs_ft/) | Black Friday Campaign
-Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign
-Summer Loving Campaign | [Good Grades Flex Campaign](https://liam-clowes.github.io/ggf/)
+[Education Report](https://github.com/liam-clowes/portfolio/blob/main/assets/GoStudent%20Educational%20Report%202021.pdf) | [Family Testimonials](https://liam-clowes.github.io/gs_ft/) | Black Friday Campaign 
+| Mighty Wins Campaign | Holidays Campaign | Language Learning Campaign 
+| Summer Loving Campaign | [Good Grades Flex Campaign](https://liam-clowes.github.io/ggf/)
 
 #### ✈️ Omio GmbH
-[Hybrid Translation Requests Platform Launch](https://liam-clowes.github.io/wc/)
-| [The Window Seat Magazine](https://www.omio.com/window-seat/)
-Brand Launch in North America | The Little Things Campaign | 
+[Hybrid Translation Requests Platform Launch](https://liam-clowes.github.io/wc/) 
+| [The Window Seat Magazine](https://www.omio.com/window-seat/) 
+| Brand Launch in North America | The Little Things Campaign | 
 Travel Out of the Ordinary Campaign
 
 ### 📝 TESTIMONIALS
