@@ -28,13 +28,13 @@ Travel Out of the Ordinary Campaign
 
 ### 📝 TESTIMONIALS
 
-_“What sets Liam apart is his remarkable storytelling ability, effectively weaving together insights to drive meaningful impact for businesses. He applies strong organisational skills throughout his work, ensuring every stage of analysis is meticulously crafted and presented. Liam thrives in collaborative environments, valuing input from team members to deliver comprehensive results. Moreover, his critical thinking skills allow him to dissect problems from multiple angles, leading to innovative and insightful solutions.”_ - **Kim Stokes, Senior Marketing Copywriter**
+_“What sets Liam apart is his remarkable storytelling ability, effectively weaving together insights to drive meaningful impact for businesses. He applies strong organisational skills throughout his work, ensuring every stage of analysis is meticulously crafted and presented. Liam thrives in collaborative environments, valuing input from team members to deliver comprehensive results. Moreover, his critical thinking skills allow him to dissect problems from multiple angles, leading to innovative and insightful solutions.”_ - **Kim Stokes**, Senior Marketing Copywriter
 
-_“Liam is hands-down one of the best PMs I have had the pleasure to collaborate with. From start to finish, he's on top of the workflow, with the foresight to spot potential issues down the line and the creative thinking to solve them. He's aware of what translators need to offer a quality service and goes out of his way to ensure they're in the best position to do so. Communication is friendly and thorough at all times, and Liam is always on hand to clarify doubts or support you to get the best result possible.”_ - **Lara Fasoli, Italian Interpreter**
+_“Liam is hands-down one of the best PMs I have had the pleasure to collaborate with. From start to finish, he's on top of the workflow, with the foresight to spot potential issues down the line and the creative thinking to solve them. He's aware of what translators need to offer a quality service and goes out of his way to ensure they're in the best position to do so. Communication is friendly and thorough at all times, and Liam is always on hand to clarify doubts or support you to get the best result possible.”_ - **Lara Fasoli**, Italian Interpreter
 
 _"Liam is the project leader you want by your side for the big ones... his calm, structured and strategic way of approaching multi-stakeholder, multi-market and data-driven projects is an asset, and he is skilled at finding the simplest way to get to the optimal outcome._
 
-_With a lot of experience of stakeholder management in international teams, Liam knows how to get the best out of every individual, and is always a real pleasure to work with!"_ - **Caroline Stephenson, Brand Strategy Director**
+_With a lot of experience of stakeholder management in international teams, Liam knows how to get the best out of every individual, and is always a real pleasure to work with!"_ - **Caroline Stephenson**, Brand Strategy Director
 
 
 
