@@ -1,7 +1,7 @@
 # Your Expert in Going Global 🏃‍♂️ 🌏
 ## Data 📊 Localisation 🗣️ Project Management 🧑‍💻
 
-🎓 [WORK EXPERIENCE & EDUCTION](https://liam-clowes.github.io/work_edu)
+🎓 [WORK EXPERIENCE & EDUCATION](https://liam-clowes.github.io/work_edu)
 
 ### 🤹 SKILLS
 
